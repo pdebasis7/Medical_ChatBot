@@ -4,3 +4,4 @@ db
 chromadb.ipynb
 Pineconevectordb.ipynb
 .gitignore
+.env
